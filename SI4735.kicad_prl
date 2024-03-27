@@ -68,6 +68,12 @@
     "visible_layers": "0001000_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "SI4735.kicad_prl",
     "version": 3
